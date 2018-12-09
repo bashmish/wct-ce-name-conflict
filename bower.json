@@ -1,0 +1,11 @@
+{
+  "name": "wct-ce-name-conflict",
+  "version": "1.0.0",
+  "authors": [
+    "Mikhail Bashkirov <bashmish@gmail.com>"
+  ],
+  "description": "WCT does not prevent Custom Element name conflicts between individual tests.",
+  "dependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.5.0"
+  }
+}
